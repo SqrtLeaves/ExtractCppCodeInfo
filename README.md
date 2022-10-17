@@ -6,3 +6,5 @@ You need a docker image https://hub.docker.com/repository/docker/leaves2docker/r
 # usage    
 Enter the docker contianer: docker run -v <your_working_dir>:/hx/work -it <image_name> bash.  
 python3 cppAna.py <cpp_project_directory>.  
+for example.  
+python3 cppAna.py vanG.  
